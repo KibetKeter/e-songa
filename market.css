@@ -1,0 +1,43 @@
+h1{
+	background-image:url('image/B4.jpg');
+	background-size: 100%;
+	font-size: 250%; 
+	color:#C0C0C0;
+	font-family:Verdana;
+}
+.head{
+	font-family:Impact;
+	font-size:40px;
+	height:50px;
+	width:50px
+}
+.mail{
+	height: 100px;
+	font-family:Arial;
+	font-size:20px;
+}
+.pass{
+	height: 100px;
+	font-family:Arial;
+	font-size:20px;
+}
+.create{
+	text-align: right;
+}
+.new{
+	font-family:Impact;
+	font-size:40px;
+	text-align: center;
+}
+.pad{
+	height: 100px;
+	font-family:Arial;
+	font-size:20px;
+	padding-left: 200px;
+}
+.shoppingcart{
+	text-align:right;
+	padding-right:0px
+}
+	
+
